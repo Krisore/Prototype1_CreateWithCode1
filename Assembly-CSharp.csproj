@@ -43,6 +43,9 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\FollowPlayerCamera.cs" />
+     <Compile Include="Assets\Challenge 1\Scripts\PlayerControllerX.cs" />
+     <Compile Include="Assets\Challenge 1\Scripts\FollowPlayerX.cs" />
+     <Compile Include="Assets\Challenge 1\Scripts\PropellerControlerX.cs" />
      <Folder Include="Assets" />
      <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\localization\mergetool.ja.txt" />
      <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\localization\images.zh-Hans.txt" />
@@ -74,6 +77,7 @@
      <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\localization\clientcommon.es.txt" />
      <Folder Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Editor Resources" />
      <None Include="Library\PackageCache\com.unity.modules.assetbundle@1.0.0\package.json" />
+     <Folder Include="Assets\Course Library\Vehicles\Planes" />
      <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\package.json" />
      <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\localization\guihelp.ja.txt" />
      <None Include="Library\PackageCache\com.unity.modules.imgui@1.0.0\package.json" />
@@ -110,6 +114,7 @@
      <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\localization\clientcommon.ja.txt" />
      <Folder Include="Library\PackageCache\com.unity.modules.cloth@1.0.0" />
      <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\localization\basecommands.zh-Hans.txt" />
+     <Folder Include="Assets\Challenge 1\Instructions" />
      <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\PackageConversionData.json" />
      <None Include="Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0\package.json" />
      <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\localization\guihelp.en.txt" />
@@ -136,6 +141,7 @@
      <None Include="Library\PackageCache\com.unity.modules.unityanalytics@1.0.0\package.json" />
      <Folder Include="Library\PackageCache\com.unity.modules.subsystems@1.0.0" />
      <None Include="Library\PackageCache\com.unity.ide.rider@3.0.18\package.json" />
+     <Folder Include="Assets\Challenge 1" />
      <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\localization\i3.zh-Hans.txt" />
      <None Include="Library\PackageCache\com.unity.modules.video@1.0.0\package.json" />
      <None Include="Library\PackageCache\com.unity.test-framework@1.1.31\package.json" />
@@ -155,6 +161,7 @@
      <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\localization\binmergetool.ko.txt" />
      <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\localization\mergetool.en.txt" />
      <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\localization\workspaceserver.zh-Hans.txt" />
+     <Folder Include="Assets\Challenge 1\_Source_Files\Materials" />
      <Folder Include="Library\PackageCache\com.unity.modules.wind@1.0.0" />
      <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\localization\binmergetool.zh-Hant.txt" />
      <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\localization\plastic-gui.en.txt" />
@@ -174,6 +181,7 @@
      <None Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.17\ValidationExceptions.json" />
      <Folder Include="Assets\Course Library\Obstacles" />
      <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\localization\cm-help.zh-Hant.txt" />
+     <Folder Include="Assets\Challenge 1\Scripts" />
      <None Include="Library\PackageCache\com.unity.modules.wind@1.0.0\package.json" />
      <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\localization\clientcommon.zh-Hant.txt" />
      <Folder Include="Library\PackageCache\com.unity.ugui@1.0.0\Tests" />
@@ -221,6 +229,7 @@
      <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\localization\binmergetool.es.txt" />
      <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\localization\cm.ja.txt" />
      <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Editor Resources\Shaders\TMP_SDF_SSD.cginc" />
+     <Folder Include="Assets\Challenge 1\_Source_Files" />
      <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.0\ValidationConfig.json" />
      <None Include="Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\localization\images.ja.txt" />
      <Folder Include="Library\PackageCache\com.unity.ide.vscode@1.2.5" />
